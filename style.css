@@ -1,0 +1,13 @@
+.container{
+text-align:center;    
+}
+#myCarousel{
+background-color:cadetblue;    
+}
+img {
+    transition: transform .2s;
+}
+
+img:hover {
+    transform: scale(1.2);
+}
